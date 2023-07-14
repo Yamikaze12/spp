@@ -30,7 +30,7 @@ Software ini dapat dipasang dalam server lokal (PC/Laptop) dan server online, de
 #### Spesifikasi minimum server
 PHP >= 7.4 (dan memenuhi [server requirement Laravel 8.x](https://laravel.com/docs/8.x/deployment#server-requirements))
 
-1. Clone Repo pada terminal : `git clone https://github.com/codegoen/spp-sekolahala.git`
+1. Clone Repo pada terminal : `https://github.com/Yamikaze12/spp.git`
 2. `$ cd spp-sekolahala`
 3. `$ composer install`
 4. `$ cp .env.example .env`
@@ -47,9 +47,6 @@ PHP >= 7.4 (dan memenuhi [server requirement Laravel 8.x](https://laravel.com/do
 
 ![Install Sistem Pembayaran SPP](docs/images/setup.png)
 
-## Developer dan Kontributor
-
-Project ini dikembangkan oleh [Rizkhal Lamaau](https://github.com/rizkhal) dan para [kontributor](https://github.com/codegoen/spp-sekolahal/graphs/contributors).
 
 ## Ramuan
 
