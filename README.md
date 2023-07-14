@@ -1,5 +1,5 @@
 TODO
-https://github.com/codegoen/spp/projects/1
+
 
 # Sistem Informasi Pembayaran SPP
 > *Mengelola pembayaran SPP dengan sistem informasi.*
